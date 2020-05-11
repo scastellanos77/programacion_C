@@ -1,0 +1,1 @@
+A los informaticos por favor un poco mas de dificultad " Telnet 25 " a tu servidor de correo (SMTP) y usa los comandos "helo", "mail from","rcpt to" etc, los encuentran en cualquier libro o Web especilizado al que le gusta lo facil no llega lejos
